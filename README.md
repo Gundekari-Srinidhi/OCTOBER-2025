@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0503-next-greater-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
