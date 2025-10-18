@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0043-multiply-strings) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
