@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
