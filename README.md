@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0046-permutations) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
