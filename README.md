@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0046-permutations) |
 | [0503-next-greater-element-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0503-next-greater-element-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Stack
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
