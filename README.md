@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
