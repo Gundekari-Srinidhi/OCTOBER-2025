@@ -2,10 +2,9 @@ class Solution:
     def isHappy(self, n: int) -> bool:
         if n==1:
             return True
-        l=set()
+        l=[2,3,4,5,6,8,9]
         mul=0
-        while n!=1 and n not in l:
-            l.add(n)
+        while mul not in l and n!=1:
             mul=0
             while n:
                 rem=n%10
