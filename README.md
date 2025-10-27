@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0059-spiral-matrix-ii) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0046-permutations) |
+| [0059-spiral-matrix-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0059-spiral-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0503-next-greater-element-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Stack
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0061-rotate-list) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
