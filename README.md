@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0202-happy-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
