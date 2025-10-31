@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0202-happy-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Gundekari-Srinidhi/OCTOBER-2025/tree/master/0202-happy-number) |
 ## Matrix
 |  |
